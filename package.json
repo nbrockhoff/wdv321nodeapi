@@ -1,0 +1,14 @@
+{
+  "name": "wdv321restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Bonjour! Hon hon baguette du fromage.\""
+  },
+  "author": "Noelle Brockhoff",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
